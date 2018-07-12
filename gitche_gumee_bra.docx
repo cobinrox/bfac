@@ -1,0 +1,35 @@
+1.0	DESCRIPTION:
+The Gitche Gumee Bra is housed in a piece of drift wood that resembles Gitche Gumee, or Lake Superior.  Pressing the button on the Gitche Gumme Bra plays an audio file that can be re-loaded with a song of your choice.
+
+2.0	OPERATION:
+2.1	Running
+Turn on the Gitche Gumee Bra by pressing the main on/off button on the bottom “tail” of the frame.  To play the audio file, press the stone button (covered with a stone) on the front of the “tail” of the frame.  The audio file will play and can be re-played by pressing the  “stone” button once again.  It is recommended that the main on/off button be set to off to avoid excess battery drainage.
+
+2.2	Battery Replacement
+You can power the Gitche Gumme by AAA batteries or a USB power pack.  To replace the batteries, turn the frame to the back, open the cover, and replace the AAA batteries.  You can also pull out the battery pack from the USB port and provide power with a micro-USB power pack.
+
+2.3	Add Your Own Audio File:
+It is possible to download your own audio file to the Gitche Gumme frame, but requires careful access to the components.
+1) Only one audio file can be used.
+2) The audio file must be less than 15MB in size.
+2) The file must be in the “OGG” file format (not MP3).  There are several MP3-to-OGG file formatting tools available if your file is in MP3 format.
+3) The file must be named “T00.ogg”.
+4 Ensure the main power to the Gitche Gumee frame is off.
+2) Open the back cover.
+3) Remove the batteries and, if necessary for access, pull the battery pack from its USB port.
+4) You will need to locate the secondary USB port that is attached to the Adafruit SoundFX card deep in the cavity.  NOTE: do not confuse this with the battery pack USB port!
+5) Connect a micro-USB cable between the Adafruit SoundFx card's USB port and your computer.  This will be the most difficult part.  Please be careful as the parts and solder points are very delicate.
+6) From your computer, you should see the card appear as a USB drive.
+7) Delete the existing T00.ogg file from the USB drive.
+8) Copy your new file
+
+3.0	COMPONENTS:
+The Gitche Gumee Bra includes the following sub-components:
+- Adafruit SoundFx card
+- Speaker/with embedded amplifier
+- USB Power adapter
+- AAA battery pack
+- Main on/off power switch
+- Stone switch to trigger the audio file
+
+
