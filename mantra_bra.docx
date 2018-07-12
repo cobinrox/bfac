@@ -1,0 +1,25 @@
+DESCRIPTION:
+The Mantra Bra plays meditation mantras that are pre-loaded on its USB stick.  The mantras (MP4 files) are played one at a time in order, but you can press the “NEXT” button to skip to the next mantra.  You can also remove or add your own videos to the Mantra Bra's USB stick.
+
+OPERATION:
+Simply plug in the Mantra Bra using the power cord in the rear of the bra.  After about 30 seconds of start-up time, the meditation mantras will begin to play on the front display.  
+
+Skip to Next Meditation/Video:
+If you wish to skip to the next meditation mantra, press the “NEXT” button which is located on the front, left-hand (or “driver” side) of the console.
+
+Increase/Decrease Volume:
+The volume control is located on the left side (or “passenger” side) of the Mantra Bra.  Rotate the volume control to provide your desired volume.
+
+Add Your Own Meditation/Video:
+If you wish, you can add your own mantras (or other video files) to the Mantra Bra.  The bra reads standard MP4 video files that are loaded on a standard USB stick, located at the rear right-hand (or “passenger” side) of the console.  First, unplug the Mantra Bra.  Then, use a pair of pliers to pull out the USB stick (the stick is very small so a pair of pliers is recommended – it can be difficult to get a tight grasp on the tiny stick).  Next, insert the USB stick into a computer that contains the MP4 video files you want to load, and copy the files.  Re-insert the USB stick back into the Mantra Bra.
+
+
+
+Components:
+The Mantra Bra includes the following sub-components:
+- Raspberry Pi Model B: This is loaded with the Adafruit VideoLooper software
+- HDMI display and driver board
+- Speakers
+- USB stick
+- A “Next” button to skip videos
+
